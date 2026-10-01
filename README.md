@@ -67,11 +67,8 @@ An interactive Power BI dashboard was created to visualize important patterns an
 
 ### Dashboard Preview
 
-![Airbnb Dashboard 01](Dashboard/AIRBNB%2001.png)
+<img width="1484" height="808" alt="image" src="https://github.com/user-attachments/assets/8703baff-b2ab-41af-b954-5f606e5c5283" />
 
-![Airbnb Dashboard 02](Dashboard/AIRBNB%2002.png)
-
-![Airbnb Dashboard 03](Dashboard/AIRBNB%2003.png)
 
 The original Power BI `.pbix` file is available in the `PowerBI` folder.
 
